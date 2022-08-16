@@ -1,0 +1,209 @@
+{
+  "createEmployee":
+  {
+    "firstName":"asritha",
+    "lastName":"arpula",
+    "age":17,
+    "noOfChildrens":2,
+    "spouse":true,
+    "address":{
+      "streetAddress":"7-48,kukatpally",
+      "city":"hyderabad",
+      "state":"telangana",
+      "country":"India",
+      "postalCode":"532284"
+    },
+    "phoneNumbers":[{
+      "type":"home",
+      "number":"9874563211"
+    }],
+    "hobbies":["singing","dancing"]
+  },
+  "updateEmployee": {
+    "firstName": "kiran",
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9874585236"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithfirstNameBlank": {
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9874585236"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithlastNameBlank": {
+    "firstName": "Kiran",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9874585236"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithAdressBlank": {
+    "firstName": "Kiran",
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9874585236"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithphoneNumberBlank": {
+    "firstName": "Kiran",
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeefirstNameBlank": {
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7896541236"
+      }
+    ],
+    "hobbies": [
+      "reading",
+      "exercise"
+    ]
+  },
+  "EmployeelastNameBlank": {
+    "firstName": "aditya",
+    "age": 10,
+    "noOfChildrens": 1,
+    "spouse": false,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "9874585236"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "drawing"
+    ]
+  },
+  "EmployeeAddressBlank": {
+    "firstName": "Kiran",
+    "lastName": "Harsha",
+    "age": 25,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9023654789"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "travelling"
+    ]
+  },
+  "EmployeephoneNumberBlank": {
+    "firstName": "Kiran",
+    "lastName": "Harsha",
+    "age": 50,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "121/old baker street",
+      "city": "Secundrabad",
+      "state": "telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  }
+}
+
