@@ -4,5 +4,9 @@
     <listeners>
         <listener class-name="EmpUtils.TestNGListners"></listener>
     </listeners>
-    <test verbose="2" preserve-order="true" name="C:/sprint2/EmployeeController"><classes/></test>
+    <test verbose="2" preserve-order="true" name="C:/sprint2/EmployeeController">
+        <classes>
+            <class name="runner.TestRunner"></class>
+        </classes>
+    </test>
 </suite>

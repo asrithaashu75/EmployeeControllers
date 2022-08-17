@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2500868300,
+              "duration": 1174866800,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:24.030Z",
+        "start_timestamp": "2022-08-17T04:46:34.196Z",
         "line": 6,
         "name": "Verify that a Employee is created",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 45991000,
+              "duration": 29091100,
               "status": "passed"
             },
             "line": 7,
@@ -55,7 +55,7 @@
         "steps": [
           {
             "result": {
-              "duration": 134171100,
+              "duration": 98268000,
               "status": "passed"
             },
             "line": 4,
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:26.608Z",
+        "start_timestamp": "2022-08-17T04:46:35.424Z",
         "line": 9,
         "name": "Verify that a Employee is updated",
         "description": "",
@@ -78,7 +78,7 @@
         "steps": [
           {
             "result": {
-              "duration": 164127400,
+              "duration": 120355400,
               "status": "passed"
             },
             "line": 10,
@@ -90,7 +90,7 @@
           },
           {
             "result": {
-              "duration": 5000700,
+              "duration": 2675500,
               "status": "passed"
             },
             "line": 11,
@@ -111,7 +111,7 @@
         "steps": [
           {
             "result": {
-              "duration": 148881700,
+              "duration": 95240300,
               "status": "passed"
             },
             "line": 4,
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:26.932Z",
+        "start_timestamp": "2022-08-17T04:46:35.654Z",
         "line": 13,
         "name": "Verify that a Employee is deleted",
         "description": "",
@@ -134,7 +134,7 @@
         "steps": [
           {
             "result": {
-              "duration": 122029500,
+              "duration": 89757800,
               "status": "passed"
             },
             "line": 14,
@@ -155,7 +155,7 @@
         "steps": [
           {
             "result": {
-              "duration": 140616900,
+              "duration": 97022200,
               "status": "passed"
             },
             "line": 4,
@@ -168,7 +168,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:27.216Z",
+        "start_timestamp": "2022-08-17T04:46:35.848Z",
         "line": 16,
         "name": "Verify that error is thrown when firstName is not given While Creating a Employee",
         "description": "",
@@ -178,7 +178,7 @@
         "steps": [
           {
             "result": {
-              "duration": 115090600,
+              "duration": 82231900,
               "status": "passed"
             },
             "line": 17,
@@ -190,7 +190,7 @@
           },
           {
             "result": {
-              "duration": 2904300,
+              "duration": 2000900,
               "status": "passed"
             },
             "line": 18,
@@ -211,7 +211,7 @@
         "steps": [
           {
             "result": {
-              "duration": 133576000,
+              "duration": 97021300,
               "status": "passed"
             },
             "line": 4,
@@ -224,7 +224,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:27.488Z",
+        "start_timestamp": "2022-08-17T04:46:36.039Z",
         "line": 20,
         "name": "Verify that error is thrown when lastName is not given While Creating a Employee",
         "description": "",
@@ -234,7 +234,7 @@
         "steps": [
           {
             "result": {
-              "duration": 114026000,
+              "duration": 91057300,
               "status": "passed"
             },
             "line": 21,
@@ -246,7 +246,7 @@
           },
           {
             "result": {
-              "duration": 2000100,
+              "duration": 1000200,
               "status": "passed"
             },
             "line": 22,
@@ -267,7 +267,7 @@
         "steps": [
           {
             "result": {
-              "duration": 125075100,
+              "duration": 94144000,
               "status": "passed"
             },
             "line": 4,
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:27.748Z",
+        "start_timestamp": "2022-08-17T04:46:36.236Z",
         "line": 24,
         "name": "Verify that error is thrown when address is not given While Creating a Employee",
         "description": "",
@@ -290,7 +290,7 @@
         "steps": [
           {
             "result": {
-              "duration": 101345200,
+              "duration": 86326000,
               "status": "passed"
             },
             "line": 25,
@@ -302,7 +302,6 @@
           },
           {
             "result": {
-              "duration": 1294800,
               "status": "passed"
             },
             "line": 26,
@@ -323,7 +322,7 @@
         "steps": [
           {
             "result": {
-              "duration": 114967000,
+              "duration": 93639700,
               "status": "passed"
             },
             "line": 4,
@@ -336,7 +335,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:27.984Z",
+        "start_timestamp": "2022-08-17T04:46:36.432Z",
         "line": 28,
         "name": "Verify that error is thrown when phoneNumber is not given While Creating a Employee",
         "description": "",
@@ -346,7 +345,7 @@
         "steps": [
           {
             "result": {
-              "duration": 122320900,
+              "duration": 83018600,
               "status": "passed"
             },
             "line": 29,
@@ -358,7 +357,7 @@
           },
           {
             "result": {
-              "duration": 1000400,
+              "duration": 999700,
               "status": "passed"
             },
             "line": 30,
@@ -379,7 +378,7 @@
         "steps": [
           {
             "result": {
-              "duration": 106152600,
+              "duration": 93677500,
               "status": "passed"
             },
             "line": 4,
@@ -392,7 +391,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:28.231Z",
+        "start_timestamp": "2022-08-17T04:46:36.618Z",
         "line": 32,
         "name": "Verify that error is thrown when ID is not given While Updating a Employee",
         "description": "",
@@ -402,7 +401,7 @@
         "steps": [
           {
             "result": {
-              "duration": 88043400,
+              "duration": 84144000,
               "status": "passed"
             },
             "line": 33,
@@ -414,7 +413,7 @@
           },
           {
             "result": {
-              "duration": 1000500,
+              "duration": 1000700,
               "status": "passed"
             },
             "line": 34,
@@ -435,7 +434,7 @@
         "steps": [
           {
             "result": {
-              "duration": 95021100,
+              "duration": 95595400,
               "status": "passed"
             },
             "line": 4,
@@ -448,7 +447,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:28.435Z",
+        "start_timestamp": "2022-08-17T04:46:36.803Z",
         "line": 36,
         "name": "Verify that error is thrown when ID is not given While Deleting a Employee",
         "description": "",
@@ -458,7 +457,7 @@
         "steps": [
           {
             "result": {
-              "duration": 81690300,
+              "duration": 78800200,
               "status": "passed"
             },
             "line": 37,
@@ -470,7 +469,7 @@
           },
           {
             "result": {
-              "duration": 1000600,
+              "duration": 1001200,
               "status": "passed"
             },
             "line": 38,
@@ -491,7 +490,7 @@
         "steps": [
           {
             "result": {
-              "duration": 89020500,
+              "duration": 89796400,
               "status": "passed"
             },
             "line": 4,
@@ -504,7 +503,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:28.618Z",
+        "start_timestamp": "2022-08-17T04:46:36.984Z",
         "line": 40,
         "name": "Verify that a user not able to get the details of Employees by using invalid endpoint",
         "description": "",
@@ -514,7 +513,7 @@
         "steps": [
           {
             "result": {
-              "duration": 159474500,
+              "duration": 141211600,
               "status": "passed"
             },
             "line": 41,
@@ -526,7 +525,7 @@
           },
           {
             "result": {
-              "duration": 1000500,
+              "duration": 1000900,
               "status": "passed"
             },
             "line": 42,
@@ -547,7 +546,7 @@
         "steps": [
           {
             "result": {
-              "duration": 96078600,
+              "duration": 97366700,
               "status": "passed"
             },
             "line": 4,
@@ -560,7 +559,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:28.876Z",
+        "start_timestamp": "2022-08-17T04:46:37.224Z",
         "line": 46,
         "name": "Verify that error is thrown when firstName is not given While Updating a Employee",
         "description": "",
@@ -570,7 +569,7 @@
         "steps": [
           {
             "result": {
-              "duration": 80962600,
+              "duration": 86693000,
               "status": "passed"
             },
             "line": 47,
@@ -582,6 +581,7 @@
           },
           {
             "result": {
+              "duration": 1000300,
               "status": "passed"
             },
             "line": 48,
@@ -602,7 +602,7 @@
         "steps": [
           {
             "result": {
-              "duration": 99105200,
+              "duration": 76126000,
               "status": "passed"
             },
             "line": 4,
@@ -615,7 +615,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:29.061Z",
+        "start_timestamp": "2022-08-17T04:46:37.412Z",
         "line": 51,
         "name": "Verify that error is thrown when lastName is not given While Updating a Employee",
         "description": "",
@@ -625,7 +625,7 @@
         "steps": [
           {
             "result": {
-              "duration": 88022700,
+              "duration": 72155700,
               "status": "passed"
             },
             "line": 52,
@@ -637,7 +637,7 @@
           },
           {
             "result": {
-              "duration": 1001100,
+              "duration": 1000200,
               "status": "passed"
             },
             "line": 53,
@@ -658,7 +658,7 @@
         "steps": [
           {
             "result": {
-              "duration": 91010800,
+              "duration": 79029700,
               "status": "passed"
             },
             "line": 4,
@@ -671,7 +671,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:29.256Z",
+        "start_timestamp": "2022-08-17T04:46:37.566Z",
         "line": 56,
         "name": "Verify that a user able to get the details of Employees by using valid Endpoint",
         "description": "",
@@ -681,7 +681,7 @@
         "steps": [
           {
             "result": {
-              "duration": 129455600,
+              "duration": 120584300,
               "status": "passed"
             },
             "line": 57,
@@ -702,7 +702,7 @@
         "steps": [
           {
             "result": {
-              "duration": 96172500,
+              "duration": 125204500,
               "status": "passed"
             },
             "line": 4,
@@ -715,7 +715,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:29.483Z",
+        "start_timestamp": "2022-08-17T04:46:37.772Z",
         "line": 60,
         "name": "Verify that error is thrown when phoneNumber is not given While Updating a Employee",
         "description": "",
@@ -725,7 +725,7 @@
         "steps": [
           {
             "result": {
-              "duration": 86032600,
+              "duration": 89821000,
               "status": "passed"
             },
             "line": 61,
@@ -737,7 +737,7 @@
           },
           {
             "result": {
-              "duration": 1000000,
+              "duration": 1001000,
               "status": "passed"
             },
             "line": 62,
@@ -758,7 +758,7 @@
         "steps": [
           {
             "result": {
-              "duration": 90792000,
+              "duration": 87730800,
               "status": "passed"
             },
             "line": 4,
@@ -771,7 +771,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-16T12:40:29.672Z",
+        "start_timestamp": "2022-08-17T04:46:37.992Z",
         "line": 64,
         "name": "Verify that a user able to get the details of Employees without using ID",
         "description": "",
@@ -781,7 +781,7 @@
         "steps": [
           {
             "result": {
-              "duration": 124027400,
+              "duration": 119109500,
               "status": "passed"
             },
             "line": 65,
